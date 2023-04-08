@@ -1,0 +1,36 @@
+img{
+    height: auto;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+    width: 50%;
+}
+
+.title {
+    text-align: center;
+    font-size: 90px;
+    background-color: tan;
+    border-color: orangered;
+    color: brown;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.text {
+    font-family: fantasy;
+    font-size: 30px; 
+    text-align: justify;  
+}
+
+h3 {
+    font-size: 40px;
+    font-weight: bold;
+    color:saddlebrown
+}
+
+li {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}

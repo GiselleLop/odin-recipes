@@ -1,0 +1,14 @@
+.title {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.link {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    background-color: yellowgreen;
+    color: orangered;
+}
